@@ -1,0 +1,14 @@
+.bg-container{
+    height: 100vh;
+    background-color: lightgreen;
+    text-align: center;
+}
+.image{
+    width: 250px;
+}
+
+button{
+    padding: 20px;
+    border-radius: 23px;
+    
+}
